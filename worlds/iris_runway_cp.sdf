@@ -116,7 +116,7 @@
     </include>
 
     <include>
-      <uri>model://iris_with_gimbal_cp</uri>
+      <uri>model://standard_vtol</uri>
       <pose degrees="true">0 0 0.195 0 0 90</pose>
     </include>
 
